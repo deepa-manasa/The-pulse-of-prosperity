@@ -1,0 +1,7 @@
+video links:
+Dashboard1: https://drive.google.com/file/d/1hpdtI5pHOepUOaVHgO_XfvRaoEvDP775/view?usp=sharing
+Dashboard2: https://drive.google.com/file/d/1zDJvCtPPy7uKiwPcD9X1Y-dgBL7M0b2_/view?usp=sharing
+Dashboard3: https://drive.google.com/file/d/1hSi7F8cG_lQM8DW4_wcH573-VJ1oYLSl/view?usp=sharing
+Dashboard4: https://drive.google.com/file/d/1MBksXbQIT8-U7GztFZ5flAZL0K9cddMt/view?usp=sharing
+Story:  https://drive.google.com/file/d/1p9YIFkwN-epXMc1lD-29RIhHFI0XMs2Z/view?usp=sharing
+Tableau public url : https://public.tableau.com/app/profile/deepa.manasa.yerra/viz/smartbridge-apsche/Story1
